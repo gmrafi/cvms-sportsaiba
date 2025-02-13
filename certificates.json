@@ -1,255 +1,146 @@
 [
     {
-        "event":"AIBA Sylhet Sports Week 2024",
-        "name":"Md Golam Mubasshir Rafi",
-        "batch":"BBA-11",
-        "section":"Bravo",
-        "id":101123072,
-        "cert_no":"SW240101",
-        "comment":"Volunteer"
+        "event": "AIBA Sylhet Sports Week 2024",
+        "name": "Md Golam Mubasshir Rafi",
+        "batch": "BBA-11",
+        "section": "Bravo",
+        "id": "101123072",
+        "cert_no": "SW240101",
+        "comment": "Volunteer"
     },
     {
-        "event":"AIBA Sylhet Sports Week 2024",
-        "name":"MD ALIF SHAHRIAR KHAN ",
-        "batch":"BBA-12",
-        "section":"Bravo",
-        "id":24220112056,
-        "cert_no":"SW240102",
-        "comment":"Volunteer + Player (Football)"
+        "event": "AIBA Sylhet Sports Week 2024",
+        "name": "MD ALIF SHAHRIAR KHAN",
+        "batch": "BBA-12",
+        "section": "Bravo",
+        "id": "24220112056",
+        "cert_no": "SW240102",
+        "comment": "Volunteer + Player (Football)"
     },
     {
-        "event":"AIBA Sylhet Sports Week 2024",
-        "name":"Alif Azad Kame Sajan ",
-        "batch":"BBA-12",
-        "section":"Alpha",
-        "id":24220112032,
-        "cert_no":"SW240103",
-        "comment":"Volunteer"
+        "event": "AIBA Sylhet Sports Week 2024",
+        "name": "Alif Azad Kame Sajan",
+        "batch": "BBA-12",
+        "section": "Alpha",
+        "id": "24220112032",
+        "cert_no": "SW240103",
+        "comment": "Volunteer"
     },
     {
-        "event":"AIBA Sylhet Sports Week 2024",
-        "name":"S M Mosaddad Ali",
-        "batch":"BBA-12",
-        "section":"Bravo",
-        "id":24220112004,
-        "cert_no":"SW240104",
-        "comment":"Volunteer + Player (Football)"
+        "event": "AIBA Sylhet Sports Week 2024",
+        "name": "S M Mosaddad Ali",
+        "batch": "BBA-12",
+        "section": "Bravo",
+        "id": "24220112004",
+        "cert_no": "SW240104",
+        "comment": "Volunteer + Player (Football)"
     },
     {
-        "event":"AIBA Sylhet Sports Week 2024",
-        "name":"Sumaiya Ahamed ",
-        "batch":"BBA-12",
-        "section":"Alpha",
-        "id":24220112127,
-        "cert_no":"SW240105",
-        "comment":"Volunteer"
+        "event": "AIBA Sylhet Sports Week 2024",
+        "name": "Sumaiya Ahamed",
+        "batch": "BBA-12",
+        "section": "Alpha",
+        "id": "24220112127",
+        "cert_no": "SW240105",
+        "comment": "Volunteer"
     },
     {
-        "event":"AIBA Sylhet Sports Week 2024",
-        "name":"Saraf Nower Rodela",
-        "batch":"BBA-12",
-        "section":"Bravo",
-        "id":24220112098,
-        "cert_no":"SW240106",
-        "comment":"Volunteer"
+        "event": "AIBA Sylhet Sports Week 2024",
+        "name": "MD. Shahin Islam Shawon",
+        "batch": "BBA-12",
+        "section": "Alpha",
+        "id": "24220112078",
+        "cert_no": "SW240106",
+        "comment": "Volunteer + Player (Football)"
     },
     {
-        "event":"AIBA Sylhet Sports Week 2024",
-        "name":"MD. Shahin Islam Shawon ",
-        "batch":"BBA-12",
-        "section":"Alpha",
-        "id":24220112078,
-        "cert_no":"SW240107",
-        "comment":"Volunteer + Player (Football)"
+        "event": "AIBA Sylhet Sports Week 2024",
+        "name": "Nayeem Reza",
+        "batch": "BBA-12",
+        "section": "Bravo",
+        "id": "24220112110",
+        "cert_no": "SW240107",
+        "comment": "Volunteer + Player (Badminton, Football)"
     },
     {
-        "event":"AIBA Sylhet Sports Week 2024",
-        "name":"Md. Ibne Masud Shov0",
-        "batch":"BBA-11",
-        "section":"Alpha",
-        "id":101123005,
-        "cert_no":"SW240108",
-        "comment":"Volunteer + Player (Football)"
+        "event": "AIBA Sylhet Sports Week 2024",
+        "name": "Sarbani Purkayastha",
+        "batch": "BBA-12",
+        "section": "Bravo",
+        "id": "24220112121",
+        "cert_no": "SW240108",
+        "comment": "Volunteer + Player (Handball)"
     },
     {
-        "event":"AIBA Sylhet Sports Week 2024",
-        "name":"Mushfiqur Rahman Tamim",
-        "batch":"BBA-11",
-        "section":"Alpha",
-        "id":101123051,
-        "cert_no":"SW240109",
-        "comment":"Volunteer + Player (Football)"
+        "event": "AIBA Sylhet Sports Week 2024",
+        "name": "Ommay Honey Maida",
+        "batch": "BBA-12",
+        "section": "Alpha",
+        "id": "24220112104",
+        "cert_no": "SW240109",
+        "comment": "Volunteer + Player (Handball)"
     },
     {
-        "event":"AIBA Sylhet Sports Week 2024",
-        "name":"MST. Aysha Akter Sweety ",
-        "batch":"BBA-12",
-        "section":"Bravo",
-        "id":24220112106,
-        "cert_no":"SW240110",
-        "comment":"Volunteer"
+        "event": "AIBA Sylhet Sports Week 2024",
+        "name": "Tasnia Juned Chowdhury",
+        "batch": "BBA-11",
+        "section": "Bravo",
+        "id": "101123106",
+        "cert_no": "SW240110",
+        "comment": "Volunteer + Player (Handball)"
     },
     {
-        "event":"AIBA Sylhet Sports Week 2024",
-        "name":"Nayeem Reza",
-        "batch":"BBA-12",
-        "section":"Bravo",
-        "id":24220112110,
-        "cert_no":"SW240111",
-        "comment":"Volunteer + Player (Badminton, Football)"
+        "event": "AIBA Sylhet Sports Week 2024",
+        "name": "Syed Muhammad Bakht",
+        "batch": "BBA-11",
+        "section": "Bravo",
+        "id": "101123087",
+        "cert_no": "SW240111",
+        "comment": "Volunteer + Player (Badminton, Football)"
     },
     {
-        "event":"AIBA Sylhet Sports Week 2024",
-        "name":"MD. SAMIUL ISLAM",
-        "batch":"BBA-12",
-        "section":"Bravo",
-        "id":2422011054,
-        "cert_no":"SW240112",
-        "comment":"Volunteer + Player (Football)"
+        "event": "AIBA Sylhet Sports Week 2024",
+        "name": "DM ISTIAQUE MEHNAF",
+        "batch": "BBA-12",
+        "section": "Bravo",
+        "id": "24220112002",
+        "cert_no": "SW240112",
+        "comment": "Volunteer + Player (Football)"
     },
     {
-        "event":"AIBA Sylhet Sports Week 2024",
-        "name":"Sarbani Purkayastha ",
-        "batch":"BBA-12",
-        "section":"Bravo",
-        "id":24220112121,
-        "cert_no":"SW240113",
-        "comment":"Volunteer + Player (Handball)"
+        "event": "AIBA Sylhet Sports Week 2024",
+        "name": "A S M MOBASHIR",
+        "batch": "BBA-12",
+        "section": "Bravo",
+        "id": "24220112095",
+        "cert_no": "SW240113",
+        "comment": "Volunteer + Player (Football)"
     },
     {
-        "event":"AIBA Sylhet Sports Week 2024",
-        "name":"Sadeka Sumaiya Mim ",
-        "batch":"BBA-12",
-        "section":"Alpha",
-        "id":24220112061,
-        "cert_no":"SW240114",
-        "comment":"Volunteer"
+        "event": "AIBA Sylhet Sports Week 2024",
+        "name": "Prottoy Rahman",
+        "batch": "BBA-12",
+        "section": "Bravo",
+        "id": "24220112041",
+        "cert_no": "SW240114",
+        "comment": "Volunteer + Player (Badminton)"
     },
     {
-        "event":"AIBA Sylhet Sports Week 2024",
-        "name":"Ayon Das Argho ",
-        "batch":"BBA-11",
-        "section":"Alpha",
-        "id":101123102,
-        "cert_no":"SW240115",
-        "comment":"Volunteer + Player (Football)"
+        "event": "AIBA Sylhet Sports Week 2024",
+        "name": "Mir Asif Us Zaman",
+        "batch": "BBA-12",
+        "section": "Bravo",
+        "id": "24220112112",
+        "cert_no": "SW240115",
+        "comment": "Volunteer + Player (Football)"
     },
     {
-        "event":"AIBA Sylhet Sports Week 2024",
-        "name":"Ommay Honey Maida",
-        "batch":"BBA-12",
-        "section":"Alpha",
-        "id":24220112104,
-        "cert_no":"SW240116",
-        "comment":"Volunteer + Player (Handball)"
-    },
-    {
-        "event":"AIBA Sylhet Sports Week 2024",
-        "name":"Tasnia Juned Chowdhury ",
-        "batch":"BBA-11",
-        "section":"Bravo",
-        "id":101123106,
-        "cert_no":"SW240117",
-        "comment":"Volunteer + Player (Handball)"
-    },
-    {
-        "event":"AIBA Sylhet Sports Week 2024",
-        "name":"Parsha Tasnim Chowdhury ",
-        "batch":"BBA-11",
-        "section":"Alpha",
-        "id":101123013,
-        "cert_no":"SW240118",
-        "comment":"Volunteer"
-    },
-    {
-        "event":"AIBA Sylhet Sports Week 2024",
-        "name":"Syed Muhammad Bakht ",
-        "batch":"BBA-11",
-        "section":"Bravo",
-        "id":101123087,
-        "cert_no":"SW240119",
-        "comment":"Volunteer + Player (Badminton, Football)"
-    },
-    {
-        "event":"AIBA Sylhet Sports Week 2024",
-        "name":"DM ISTIAQUE MEHNAF",
-        "batch":"BBA-12",
-        "section":"Bravo",
-        "id":24220112002,
-        "cert_no":"SW240120",
-        "comment":"Volunteer + Player (Football)"
-    },
-    {
-        "event":"AIBA Sylhet Sports Week 2024",
-        "name":"Labiba Akter ",
-        "batch":"BBA-12",
-        "section":"Bravo",
-        "id":24220112093,
-        "cert_no":"SW240121",
-        "comment":"Volunteer"
-    },
-    {
-        "event":"AIBA Sylhet Sports Week 2024",
-        "name":"A S M MOBASHIR",
-        "batch":"BBA-12",
-        "section":"Bravo",
-        "id":24220112095,
-        "cert_no":"SW240122",
-        "comment":"Volunteer + Player (Football)"
-    },
-    {
-        "event":"AIBA Sylhet Sports Week 2024",
-        "name":"Prottoy Rahman",
-        "batch":"BBA-12",
-        "section":"Bravo",
-        "id":24220112041,
-        "cert_no":"SW240123",
-        "comment":"Volunteer + Player (Badminton)"
-    },
-    {
-        "event":"AIBA Sylhet Sports Week 2024",
-        "name":"Md. Shifatur Rahman",
-        "batch":"BBA-11",
-        "section":"Bravo",
-        "id":101123024,
-        "cert_no":"SW240124",
-        "comment":"Volunteer + Player (Football)"
-    },
-    {
-        "event":"AIBA Sylhet Sports Week 2024",
-        "name":"Md.Mohimenul Islam Reduwan",
-        "batch":"BBA-12",
-        "section":"Bravo",
-        "id":24220112090,
-        "cert_no":"SW240125",
-        "comment":"Volunteer + Player (Football)"
-    },
-    {
-        "event":"AIBA Sylhet Sports Week 2024",
-        "name":"Mir Asif Us Zaman",
-        "batch":"BBA-12",
-        "section":"Bravo",
-        "id":24220112112,
-        "cert_no":"SW240126",
-        "comment":"Volunteer + Player (Football)"
-    },
-    {
-        "event":"AIBA Sylhet Sports Week 2024",
-        "name":"Riduwanul Islam Sakib ",
-        "batch":"BBA-12",
-        "section":"Bravo",
-        "id":24220112108,
-        "cert_no":"SW240127",
-        "comment":"Volunteer + Player (Badminton, Football)"
-    },
-    {
-        "event":"AIBA Sylhet Sports Week 2024",
-        "name":"Jubaer Hossain ",
-        "batch":"BBA-12",
-        "section":"Bravo",
-        "id":2422011019,
-        "cert_no":"SW240128",
-        "comment":"Volunteer + Player (Football)"
+        "event": "AIBA Sylhet Sports Week 2024",
+        "name": "Riduwanul Islam Sakib",
+        "batch": "BBA-12",
+        "section": "Bravo",
+        "id": "24220112108",
+        "cert_no": "SW240116",
+        "comment": "Volunteer + Player (Badminton, Football)"
     }
-
 ]
