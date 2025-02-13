@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Panel - Certificate Manager</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Admin Panel - Add Certificate</h1>
+    
+    <input type="password" id="adminPass" placeholder="Enter Admin Password">
+    <button onclick="checkAdmin()">Login</button>
+
+    <div id="adminPanel" style="display:none;">
+        <h2>Add New Certificate</h2>
+        <input type="text" id="event" placeholder="Event Name">
+        <input type="text" id="name" placeholder="Student Name">
+        <input type="text" id="batch" placeholder="Batch">
+        <input type="text" id="section" placeholder="Section">
+        <input type="text" id="studentId" placeholder="Student ID">
+        <input type="text" id="certNo" placeholder="Certificate Number">
+        <input type="text" id="comment" placeholder="Comment">
+        <button onclick="addCertificate()">Add Certificate</button>
+        
+        <h2>Certificate Data (Copy & Update in `certificates.json`)</h2>
+        <textarea id="certData" rows="10" cols="50"></textarea>
+    </div>
+
+    <script src="admin.js"></script>
+</body>
+</html>
