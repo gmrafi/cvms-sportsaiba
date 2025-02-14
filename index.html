@@ -5,11 +5,48 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sports AIBA - Certificate Verification & Management System (CVMS)</title>
     <link rel="stylesheet" href="styles.css">
+    <style>
+        header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 20px;
+        }
+        header img {
+            height: 80px;
+        }
+        header div {
+            flex-grow: 1;
+            text-align: center;
+            margin: 0 10px; /* Adjusted margin to bring logos closer */
+        }
+        @media (min-width: 1024px) {
+            header img {
+                height: 120px;
+            }
+            header div {
+                margin: 0 20px; /* Adjusted margin for larger screens */
+            }
+        }
+        @media (max-width: 768px) {
+            header img {
+                display: none;
+            }
+            header div {
+                text-align: center;
+            }
+        }
+    </style>
 </head>
 <body>
     <header>
-        <h1>Army Institute of Business Administration (AIBA), Sylhet</h1>
-        <h2>Sports AIBA - Certificate Verification & Management System (CVMS)</h2>
+        <img src="Photos/aiba.jpg" alt="University Logo">
+        <div>
+            <h1>Army Institute of Business Administration (AIBA), Sylhet</h1>
+            <h3>Jalalabad Cantonment, Sylhet, Bangladesh</h3>
+            <h2>Sports AIBA - Certificate Verification & Management System (CVMS)</h2>
+        </div>
+        <img src="Photos/sportsaiba.jpg" alt="Sports Logo">
     </header>
 
     <section class="container">
@@ -24,8 +61,8 @@
     </section>
     <footer>
         <p>© 2025 GMRafi CVMS | AIBA Sylhet | Sports AIBA </p>
-        Designed and developed by <strong><a href="https://me.gmrafi.com/" target="_blank" style="color: white;">Golam Mubasshir Rafi</a></strong>.</p></strong>
-        Powered by GMRafi Web.
+        <p>Designed and developed by <strong><a href="https://me.gmrafi.com/" target="_blank" style="color: white;">Golam Mubasshir Rafi</a></strong></p>
+        Powered by GMRafi Web
     </footer>
 
     <script src="script.js"></script>
