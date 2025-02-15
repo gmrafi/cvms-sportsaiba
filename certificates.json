@@ -259,5 +259,14 @@
         "id":"nan",
         "cert_no":null,
         "comment":"Unknown"
+    },
+    {
+        "event":"AIBA Sylhet Sports Week 2024",
+        "name":"Ridika Ridi Test Name",
+        "batch":"BBA-12",
+        "section":"Bravo",
+        "id":"25220112055",
+        "cert_no":"SW240589",
+        "comment":"Volunteer + Player (Football)"
     }
 ]
